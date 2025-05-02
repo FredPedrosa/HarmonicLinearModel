@@ -111,6 +111,7 @@ Araújo, J. de, & Blesa, H. (2024). Avaliando a trajetória do processo psicoló
 ## Author
 
 *   **Prof. Dr. Frederico G. Pedrosa**
+*   fredericopedrosa@ufmg.br
 
 
 ## License
